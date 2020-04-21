@@ -1,6 +1,6 @@
 #!/bin/bash
 
+echo "git clone test."
 
-echo "github.com/robe-zhang"
 
 
